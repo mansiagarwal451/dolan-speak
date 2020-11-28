@@ -1,0 +1,23 @@
+body {
+    background-color: burlywood;
+}
+
+h1 {
+    text-align: center;
+}
+
+textarea {
+    height: 10vh;
+    width: 70%;
+    display: block;
+    margin: auto;
+    padding: 1rem;
+}
+
+.container {
+    text-align: center;
+}
+
+.outputdiv {
+    text-align: center;
+}
